@@ -7,7 +7,7 @@
 ### Installation
 
 ```js
-// @require     https://gist.githubusercontent.com/bluescorpian/9c582a0f9fd35e5088950034099a2cf9/raw/c7fe32f4e607ce231c295fbffe0e9ceaa5bc39c0/wprequire.js
+// @require     https://cdn.jsdelivr.net/npm/wp-require@1.0.0/dist/wprequire.js
 ```
 
 ### Usage
