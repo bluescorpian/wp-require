@@ -1,6 +1,6 @@
 {
 	"name": "wp-require",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A userscript utility to interact with Webpack's module chunks, enabling dynamic module requiring and finding through site updates.",
 	"main": "dist/wprequire.js",
 	"module": "dist/wprequire.esm.js",
